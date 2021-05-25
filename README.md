@@ -1,4 +1,4 @@
-# Udemy Quiz App (flutter
+# Udemy Quiz App (flutter)
 
 A new Flutter project.
 
